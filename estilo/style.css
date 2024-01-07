@@ -111,6 +111,7 @@
   background-color: #13754B;
   width: 550px;
   border-radius: 10px;
+  border: auto;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.479);
  }
  ul{
